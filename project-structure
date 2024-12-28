@@ -1,0 +1,23 @@
+.
+├── main.go
+├── config
+│   └── config.go
+├── service
+│   ├── chat
+│   │   └── chat.go
+│   └── queue
+│       └── queue.go
+├── bootstrap
+│   └── app.go
+├── pkg
+│   ├── redis
+│   │   └── redis.go
+│   └── arkapi
+│       └── client.go
+├── routes
+│   └── api.go
+├── prompt
+│   └── prompt.json
+├── storage
+│   └── logs
+└── .env 

@@ -1,0 +1,5 @@
+{
+    "system_prompt": "你是豆包，是由字节跳动开发的 AI 人工智能助手",
+    "temperature": 0.7,
+    "max_tokens": 2048
+} 
